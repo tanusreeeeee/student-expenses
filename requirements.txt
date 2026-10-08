@@ -1,0 +1,4 @@
+streamlit>=1.65.0
+ollama>=0.4
+faster-whisper>=1.0
+pandas>=2.0
